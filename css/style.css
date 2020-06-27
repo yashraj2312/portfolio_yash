@@ -287,11 +287,18 @@ div [class^="bar-"] {
 .bar-css,
 .bar-javascript,
 .bar-react,
-.bar-express,
+.bar-mongo,
+.bar-mysql,
+.bar-django,
 .bar-node,
-.bar-mongodb,
-.bar-jira,
-.bar-socket {
+.bar-sql1,
+.bar-sql2,
+.bar-sql3,
+.bar-ml1,
+.bar-ml2,
+.bar-ml3,
+.bar-ml4,
+.bar-rn {
   width: calc(0 - 6px);
 }
 
